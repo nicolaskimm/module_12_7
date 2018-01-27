@@ -67,7 +67,7 @@ body {
       .board .column-container .column .btn-delete {
         margin-right: 10px; }
       .board .column-container .column ul {
-        min-height: 450px;
+        min-height: 460px;
         height: 100%;
         list-style-type: none;
         padding: 0; }
